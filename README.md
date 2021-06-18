@@ -1,2 +1,1 @@
-# bitcoin-ticker-flutter
-Bitcoin-Ticker
+# Flutter Exercises 

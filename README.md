@@ -23,7 +23,7 @@ Este app foi feito utilizando a API da CoinApi (https://docs.coinapi.io/#get-spe
 2. Clone este repositório
 
 ```
-git clone https://github.com/hb57786/Clima-Flutter-master.git
+git clone https://github.com/hb57786/bitcoin-ticker-flutter.git
 ```
 
 3. Baixe as dependências
